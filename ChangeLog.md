@@ -1,3 +1,5 @@
 # Changelog for polysemy-fs
 
-## Unreleased changes
+## v0.1.0.0
+
+* Small filesystem effects for polysemy.
