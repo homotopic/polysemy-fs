@@ -1,0 +1,5 @@
+resolver: nightly-2020-10-31
+packages:
+- .
+extra-deps:
+- unliftio-path-0.0.2.0@sha256:cf4b02640b99831004853e8fc9f9ff922514d08a24ea36e09e8e7a77b250bc80,787

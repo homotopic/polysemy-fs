@@ -1,0 +1,27 @@
+name:                polysemy-fs
+version:             0.1.0.0
+git:                 https://gitlab.com/homotopic-tech/polysemy-fs
+license:             BSD3
+author:              "Daniel Firth"
+maintainer:          "dan.firth@homotopic.tech"
+copyright:           "dan.firth@homotopic.tech"
+
+extra-source-files:
+- README.md
+- ChangeLog.md
+
+synopsis:            Low level filesystem operations for polysemy.
+category:            Polysemy Filesystem
+
+dependencies:
+- base >= 4.7 && < 5
+- bytestring
+- path
+- polysemy
+- rio
+- temporary
+- text
+- unliftio-path
+
+library:
+  source-dirs: src
